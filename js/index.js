@@ -22,10 +22,10 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Sia",
-    artist: "Cheap thrills",
+    name: "Owl",
+    artist: "Night Crawler",
     image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "/home/studennt/Downloads/WolfBlood_-_A_Promise_That_I_ll_Keep_(Lyrics).mp3"
+    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3"
   },
   {
     name: "Enthusiast",
